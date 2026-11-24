@@ -1,6 +1,6 @@
 # Code for "Network formation with link recommendation"
 
-MATLAB code to reproduce the simulations and figures of the paper. It has two parts:
+MATLAB code to reproduce the simulations and figures of the paper "Efficiency versus fairness in link recommendation algorithms" by Michel Grabisch, Antoine Mandel and Agnieszka Rusinowska. It has two parts:
 
 | Folder | Content |
 |---|---|
