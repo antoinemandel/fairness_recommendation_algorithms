@@ -1,0 +1,4 @@
+# Raw SNAP files and the cached sparse graphs (see extension/download_snap_data.m)
+extension/data/
+*.asv
+.DS_Store
